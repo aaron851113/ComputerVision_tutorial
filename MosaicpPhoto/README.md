@@ -21,6 +21,7 @@ output photo : <br />
 
 
 ### Step2* : can choose factor image (background photo)size & addWeight ratio
+Then you can have a clear factor photo version.
 [main2_controlsize.ipynb](main2_controlsize.ipynb) <br />
 output2 photo : <br />
 <img src="output2.png" width="400" height="400" /> <br />
