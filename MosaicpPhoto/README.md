@@ -13,4 +13,14 @@ For create mosaicpy photo Use : <br />
 * numpy
 * matplotlib
 <a/>
+
+original photo : <br />
 <img src="output.png" width="200" height="200" /> <br />
+output photo : <br />
+<img src="output.png" width="200" height="200" /> <br />
+
+
+### Step2* can choose factor image (background photo)size & addWeight ratio
+[main2_controlsize.ipynb](main2_controlsize.ipynb) <br />
+output photo : <br />
+<img src="output2.png" width="200" height="200" /> <br />
