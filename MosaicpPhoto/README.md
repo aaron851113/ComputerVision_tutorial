@@ -15,12 +15,12 @@ For create mosaicpy photo Use : <br />
 <a/>
 
 original photo : <br />
-<img src="output.png" width="200" height="200" /> <br />
+<img src="photo.jpg" width="300" height="300" /> <br />
 output photo : <br />
-<img src="output.png" width="200" height="200" /> <br />
+<img src="output.png" width="400" height="400" /> <br />
 
 
 ### Step2* can choose factor image (background photo)size & addWeight ratio
 [main2_controlsize.ipynb](main2_controlsize.ipynb) <br />
-output photo : <br />
-<img src="output2.png" width="200" height="200" /> <br />
+output2 photo : <br />
+<img src="output2.png" width="400" height="400" /> <br />
