@@ -1,12 +1,12 @@
 # Mosaicpy Photo by many photos
 Let a original photo transfer to a mosaicpy photo by other photos.
 
-### Step 1
+### Step 1 scratch factor photo
 For scratch picture Use :  <br />
 * flickrapi <br />
 (reference https://github.com/ultralytics/flickr_scraper?fbclid=IwAR24AyioC562EutqUuAvkZiPuC0fc7fxB1Em3QE7Kv8iNZVKXgfCkfdsH-M )
 
-### Step2 
+### Step2 Create a mosaicpy photo
 [main1_original.ipynb](main1_original.ipynb) <br />
 For create mosaicpy photo Use : <br />
 * opencv
