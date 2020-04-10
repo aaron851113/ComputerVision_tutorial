@@ -14,6 +14,8 @@ Output photos: <br />
 Example Code [Here](image.c) (change the .c file in yolo) <br />
 Yolo official Reference : https://pjreddie.com/darknet/yolo/ <br />
 
+---
+
 ### work2
 * Modify the yolo model for faster yolov3 model
 </a>
