@@ -10,4 +10,7 @@ This work will show :
 
 ##### Reference :
 * https://github.com/clovaai/CRAFT-pytorch/issues/3
-* 
+* NCTU AI Moudule Lesson : Smart Drone <br />
+<img src="https://github.com/aaron851113/ComputerVision/blob/master/bbox_to_heatmap/ppt/ppt1.png" width="400" height="250" /><br />
+<img src="https://github.com/aaron851113/ComputerVision/blob/master/bbox_to_heatmap/ppt/ppt2.png" width="400" height="250" />
+
