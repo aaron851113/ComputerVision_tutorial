@@ -6,3 +6,8 @@ This work will show :
 <img src="https://github.com/aaron851113/ComputerVision/blob/master/bbox_to_heatmap/labelled.jpg" width="600" height="300" /><br />
 * how to convert bboxes to heatmap <br />
 <img src="https://github.com/aaron851113/ComputerVision/blob/master/bbox_to_heatmap/heatmap_output.jpg" width="600" height="300" /><br />
+
+
+##### Reference :
+* https://github.com/clovaai/CRAFT-pytorch/issues/3
+* 
