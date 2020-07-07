@@ -9,4 +9,4 @@
 
 * HW1 : [bbox_to_heatmap](https://github.com/aaron851113/ComputerVision/tree/master/bbox_to_heatmap)
 * HW2 : [FaceRecognition](https://github.com/aaron851113/ComputerVision/tree/master/Face)
-* HW2 : [BinaryCarPlate](https://github.com/aaron851113/ComputerVision/tree/master/Binary_findcarplate)
+* HW3 : [BinaryCarPlate](https://github.com/aaron851113/ComputerVision/tree/master/Binary_findcarplate)
